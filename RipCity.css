@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    font-family: 'Zen Dots', cursive;
+    color: white;
+
+}
+h1 {
+    color: red;
+    border-style: solid;
+}
+div { 
+    color: red;
+    border-style: solid;
+}
+
+div { 
+    color: white;
+    border-style: solid;
+}
+
+div { 
+    color: blue;
+    border-style: solid;
+}
